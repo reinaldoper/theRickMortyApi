@@ -1,0 +1,20 @@
+body {
+    background-image: url('./image/814.jpeg');
+}
+#card{
+    text-align: center;
+}
+#image {
+    width: 200px;
+    height: 250px;
+    border-radius: 8px;
+}
+#input {
+    border-radius: 8px;
+}
+#type {
+    color: chartreuse;
+}
+#nome {
+    color: chartreuse;
+}
