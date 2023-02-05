@@ -7,4 +7,4 @@ Projeto de card da API the Rick and Morty, baseado em cards, onde o usuário dig
 ## Imagem da aplicação:
 <img src="image/rick-morthy.png" alt="image"/>
 
-## API se encontra nesse link: https://rickandmortyapi.com/api/character
+## API se encontra nesse link: `https://rickandmortyapi.com/api/character`
